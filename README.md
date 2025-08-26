@@ -51,8 +51,11 @@ You can try some predefined inputs:
 Vegetarian diet with a 450 RON weekly budget and cutting goal
 Non-vegetarian, lactose-free diet for maintenance
 
+
+
+
 # Author
 Necula Valentin-Cristian (through Neural Networks Course)
 
-![image](https://github.com/user-attachments/assets/3e1370bb-27a0-475b-ad25-368e6565b49c)
+<img width="1865" height="871" alt="Exemplu_dieta_AI" src="https://github.com/user-attachments/assets/155229e2-3755-415f-8776-72e37c91e5dc" />
 
